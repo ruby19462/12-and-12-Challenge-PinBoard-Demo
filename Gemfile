@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+gem 'masonry-rails', '~> 0.2.4'
 gem 'paperclip', '~> 4.3', '>= 4.3.6'
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
 gem 'devise', '~> 4.1', '>= 4.1.1'
